@@ -2,7 +2,7 @@
 #
 # -*- coding: utf-8 -*-
 #
-# CatABMS Kernel - developed by Catware, 2018-2021.
+# ABMSv2 Kernel - developed by Catware, 2018-2021.
 #
 # Requires catENV (developed by Catware too)
 #
